@@ -1,5 +1,5 @@
 # Mobile App Privacy Policy
-Tip Calculator Last updated [March 4th, 2022]
+Tip Calculator Last updated [August 7th, 2022]
 
 Tip Calculator (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application (the “Application”).Please read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION.
 
@@ -103,4 +103,4 @@ Emails and Communications If you no longer wish to receive correspondence, email
 
 If you are under 18 years of age, reside in California, and have a registered account with the Application, you have the right to request removal of unwanted data that you publicly post on the Application. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Application, but please be aware that the data may not be completely or comprehensively removed from our systems. CONTACT US If you have questions or comments about this Privacy Policy, please contact us at:
 
-Tip Calculator - New York, NY chad.yeo.cy@gmail.com
+Tip Calculator - New York, NY chaddarchiz@gmail.com
